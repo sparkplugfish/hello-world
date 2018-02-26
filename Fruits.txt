@@ -2,5 +2,9 @@ File 1
 Apple
 Banana
 Cherry
+Chili
+Durian
 Eggplant
+Passionfruit
+Tomato
 End of File
