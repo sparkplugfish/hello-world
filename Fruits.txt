@@ -1,6 +1,7 @@
-File 1
 Apple
 Banana
 Cherry
 Eggplant
-End of File
+Date
+Fig
+Grapers
