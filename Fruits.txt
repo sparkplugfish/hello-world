@@ -2,6 +2,5 @@ File 1
 Apple
 Banana
 Cherry
-Durian
 Eggplant
 End of File
