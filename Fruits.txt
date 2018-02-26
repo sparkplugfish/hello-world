@@ -5,6 +5,8 @@ Cherry
 Chili
 Durian
 Eggplant
+Jackfruit
 Passionfruit
 Tomato
+Olive
 End of File
